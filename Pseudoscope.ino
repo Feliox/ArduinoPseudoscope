@@ -31,4 +31,4 @@ void loop() {
   }  
 }
 
-//Possible improvements - use inline avr c to speed up ADC reading. Speeding up communication.
+//Possible improvements - use inline avr c to speed up ADC reading. Speed up baudrate.
